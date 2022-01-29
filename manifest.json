@@ -1,0 +1,10 @@
+{
+    "Name": "Ledger Navigation",
+    "Author": "Fluffy",
+    "Version": "1.0.0",
+    "Description": "Navigate the end-of-day ledger using keyboard shortcuts.",
+    "UniqueID": "Fluffy.LedgerNavigation",
+    "EntryDll": "LedgerNavigation.dll",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": ["GitHub:Fluffy-Mods/stardew-valley_ledger-navigation"]
+}
