@@ -6,5 +6,5 @@
     "UniqueID": "Fluffy.LedgerNavigation",
     "EntryDll": "LedgerNavigation.dll",
     "MinimumApiVersion": "3.0.0",
-    "UpdateKeys": ["GitHub:Fluffy-Mods/stardew-valley_ledger-navigation"]
+    "UpdateKeys": ["GitHub:fluffy-mods/SV-LedgerNavigation"]
 }
